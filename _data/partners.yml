@@ -1,0 +1,12 @@
+
+-
+  group: "With support of"
+  elements: 
+    - {name: "Ajuntament de Reus", description: "Ajuntament de Reus", link: "https://www.reus.cat", imageUrl: "ajuntament_reus.jpg", width: "130px"}
+    - {name: "firaReus", description: "firaReus", link: "http://www.firareus.com", imageUrl: "firareus.png", width: "100px"}
+    - {name: "Deim", description: "Deim URV", link: "https://www.facebook.com/deimURV/", imageUrl: "logo_deim.png", width: "125px"}
+    - {name: "Deim 25 Anys", description: "Deim 25 Anys", link: "https://www.facebook.com/deimURV/", imageUrl: "logo_anys_deim.jpg", width: "125px"}
+    - {name: "El Gato Gaming", description: "El Gato Gaming", link: "https://www.elgato.com/es/gaming", imageUrl: "logo_elgato.png", width: "130px"}
+    - {name: "Mensula Studio", description: "Mensula", link: "http://www.mensula.cat/", imageUrl: "logo_mensula.png", width: "110px"}
+    - {name: "URV", description: "URV", link: "http://www.urv.cat/localitzacio/10/escola-tecnica-superior-d%E2%80%99enginyeria", imageUrl: "logoURV.png", width: "110px"}
+    - {name: "Unity", description: "Unity", link: "https://unity3d.com/es", imageUrl: "logoUnity.png", width: "110px"}

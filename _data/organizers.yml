@@ -1,0 +1,11 @@
+- 
+  group: "Main organizer"
+  elements: 
+    - {name: "GDG Tarragona", description: "GDG Tarragona - Google Developers Group Tarragona", link: "http://www.gdgtarragona.net", imageUrl: "organizer-logo.svg"}
+- 
+  group: "Co-organizers"
+  elements:
+    - {name: "Alumnes Informàtica URV", description: "Alumnes Informàtica URV", link: "http://gdgtarragona.github.io/gamejamreus/", imageUrl: "logo_alumnes.png"}
+    - {name: "Thinkit_ TGN Group", description: "Thinkit_ TGN Group", link: "https://www.facebook.com/thinkittgn", imageUrl: "logo_thinkit_it.png"}
+
+

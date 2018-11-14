@@ -1,0 +1,71 @@
+-
+    id: 101
+    title: "Check-in"
+    place: "Hall"
+    service: true
+-
+    id: 102
+    title: "Presentació / Keynote"
+    place: "Room 1"
+    service: true
+-
+    id: 103
+    title: "Formació equips"
+    place: "Room 1"
+    service: true
+-
+    id: 104
+    title: "Treball"
+    place: "Room 2"
+    service: true
+-
+    id: 105
+    title: "Tancament"
+    place: "Hall"
+    service: true
+-
+    id: 106
+    title: "Entrega treballs"
+    place: "Room 1"
+    service: true
+-
+    id: 107
+    title: "Presentacions Treballs i Entrega de Premis"
+    place: "Room 1"
+    service: true
+-
+    id: 400
+    title: "Pendiente"
+    description: ""
+    subtype: presentation
+    speakers: [9]
+    language: cat
+    complexity: "Beginner"
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true
+-
+  id: 001
+  title: "Presentacions Ponents"
+  description: ""
+  subtype: presentation
+  speakers: [3,1]
+  language: ES
+  complexity: "Intermediate"
+-
+  id: 002
+  title: "Presentacions Ponents"
+  description: ""
+  subtype: presentation
+  speakers: [0,2]
+  language: ES
+  complexity: "Intermediate"
+-
+

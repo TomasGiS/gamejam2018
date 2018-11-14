@@ -1,0 +1,41 @@
+-
+    id: 1
+    name: "Vanessa"
+    surname: "Galcerà"
+    title: "GDG and WTM Organizer"
+    thumbnailUrl: vanessaGalcera.jpg
+    team: true
+    ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
+    social:
+    - {name: "google-plus", link: "https://google.com/+VanessaGalcera"}
+    - {name: "twitter", link: "https://twitter.com/vanessagare"}
+    - {name: "site", link: "http://www.vgalcera.wordpress.com/"}
+-
+  id: 0
+  name: "TomasGiS"
+  surname: ""
+  title: "GDG Organizer"
+  thumbnailUrl: TomasGiS.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group Tarragona Organizer"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+TomasGiS"}
+    - {name: "twitter", link: "https://twitter.com/TomasGiS"}
+    - {name: "github", link: "https://github.com/TomasGiS"}
+    - {name: "site", link: "http://www.tomasgis.cat/"}
+
+-
+  id: 2
+  name: "Jordi"
+  surname: "Duch"
+  company: "URV"
+  title: ""
+  thumbnailUrl: jordiDuch.png
+  team: true
+  ribbon:
+    - {abbr: "URV", title: ""}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/101787050467842633901/"}
+

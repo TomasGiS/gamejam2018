@@ -1,0 +1,133 @@
+-
+  date: "2016-05-6"
+  dateReadable: "Maig 6"
+  tracks: 
+    - {title: "GameJam", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "16:30",
+    	endTime: "17:00",
+    	sessionIds: [101]
+    }
+    - {
+    	startTime: "17:00",
+    	endTime: "17:30",
+    	sessionIds: [102]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [103]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "21:00",
+    	sessionIds: [104]
+    }
+    - {
+        startTime: "21:00",
+        endTime: "21:10",
+        sessionIds: [105]
+    }
+-
+    date: "2016-05-7"
+    dateReadable: "Maig 7"
+    tracks:
+        - {title: "GameJam", color: "#90be4e"}
+    timeslots:
+    - {
+        startTime: "9:00",
+        endTime: "9:10",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "9:10",
+        endTime: "10:00",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "11:00",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:30",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "15:00",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "21:00",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "21:00",
+        endTime: "21:10",
+        sessionIds: [105]
+    }
+-
+    date: "2016-05-8"
+    dateReadable: "Maig 8"
+    tracks:
+        - {title: "GameJam", color: "#90be4e"}
+    timeslots:
+    - {
+        startTime: "9:00",
+        endTime: "9:20",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "9:20",
+        endTime: "11:00",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "13:00",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:30",
+        sessionIds: [106]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "17:00",
+        sessionIds: [107]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:10",
+        sessionIds: [105]
+    }

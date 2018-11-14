@@ -1,0 +1,44 @@
+-
+    id: 1
+    name: "Daniel"
+    surname: "Villanueva"
+    company: "Escola de Cinema de Reus"
+    title: ""
+    bio: ""
+    thumbnailUrl: daniVillanueva.jpg
+    rockstar: true
+    social:
+    - {name: "site", link: "https://www.linkedin.com/in/daniel-villanueva-margalef-a9b62718/"}
+-
+    id: 2
+    name: "Jose Antonio"
+    surname: "Muñiz"
+    company: "Digivision"
+    title: ""
+    thumbnailUrl: digivision.jpg
+    rockstar: true
+    social:
+    - {name: "site", link: "https://www.linkedin.com/in/jose-antonio-mu%C3%B1iz-olivares-52746262/en"}
+-
+    id: 0
+    name: "Albert"
+    surname: "Abelló"
+    company: "ex-COO/Game Director Ilustrum Multimedia S.L."
+    title: ""
+    bio: ""
+    thumbnailUrl: albertAbello.jpg
+    rockstar: true
+    social:
+    - {name: "site", link: "https://www.linkedin.com/in/albertabello"}
+
+-
+    id: 3
+    name: "Raul"
+    surname: "Herrero"
+    company: "Digital Legends Entertainment"
+    title: ""
+    bio: ""
+    thumbnailUrl: unkown_boy.png
+    rockstar: false
+    social:
+    - {name: "site", link: "https://es.linkedin.com/in/raul-herrero-085aa05"}
